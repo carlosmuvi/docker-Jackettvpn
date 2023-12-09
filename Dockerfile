@@ -1,6 +1,6 @@
 # Jackett and OpenVPN, JackettVPN
 
-FROM raspbian/stretch
+FROM balenalib/raspberry-pi-debian
 MAINTAINER gjeanmart
 
 ENV DEBIAN_FRONTEND noninteractive
