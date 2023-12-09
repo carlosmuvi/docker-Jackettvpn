@@ -1,6 +1,6 @@
 # Jackett and OpenVPN, JackettVPN
 
-FROM raspbian/stable
+FROM anonomous/raspbian-buster-arm64-bibendum
 MAINTAINER gjeanmart
 
 ENV DEBIAN_FRONTEND noninteractive
